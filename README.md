@@ -1,1 +1,2 @@
 # Hill_climb_racing_automation
+This application employs hand recognition technology to enable hand gesture recognition in the popular game, Hill Climb Racing. By harnessing this technology, players can control the game using intuitive hand movements, effortlessly executing in-game actions without the need for traditional controls. The application was developed by creating a dataset and defining corresponding instructions linked to specific hand gestures, providing gamers with a more immersive and natural control system for an enhanced gaming experience.
